@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/H1M4N5HU0P/MafiaBotIsOP/",
+  "repository": "https://github.com/Kawser218697/MafiaBotIsOP/",
   "website": "https://github.com/H1M4N5HU0P/MafiaBotIsOP/",
-  "success_url": "https://t.me/MafiaBot_Support",
+  "success_url": "https://https://t.me/epic_movie_club_support",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
